@@ -1,0 +1,14 @@
+C:\Users\Coccia\Desktop\Nueva carpeta\Nueva carpeta\Final Programacion\Final Programacion\obj\Debug\net8.0\Final Programacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Coccia\Desktop\Nueva carpeta\Nueva carpeta\Final Programacion\Final Programacion\obj\Debug\net8.0\Final Programacion.AssemblyInfoInputs.cache
+C:\Users\Coccia\Desktop\Nueva carpeta\Nueva carpeta\Final Programacion\Final Programacion\obj\Debug\net8.0\Final Programacion.AssemblyInfo.cs
+C:\Users\Coccia\Desktop\Nueva carpeta\Nueva carpeta\Final Programacion\Final Programacion\obj\Debug\net8.0\Final Programacion.csproj.CoreCompileInputs.cache
+C:\Users\Coccia\Desktop\Nueva carpeta\Nueva carpeta\Final Programacion\Final Programacion\bin\Debug\net8.0\Final Programacion.exe
+C:\Users\Coccia\Desktop\Nueva carpeta\Nueva carpeta\Final Programacion\Final Programacion\bin\Debug\net8.0\Final Programacion.deps.json
+C:\Users\Coccia\Desktop\Nueva carpeta\Nueva carpeta\Final Programacion\Final Programacion\bin\Debug\net8.0\Final Programacion.runtimeconfig.json
+C:\Users\Coccia\Desktop\Nueva carpeta\Nueva carpeta\Final Programacion\Final Programacion\bin\Debug\net8.0\Final Programacion.dll
+C:\Users\Coccia\Desktop\Nueva carpeta\Nueva carpeta\Final Programacion\Final Programacion\bin\Debug\net8.0\Final Programacion.pdb
+C:\Users\Coccia\Desktop\Nueva carpeta\Nueva carpeta\Final Programacion\Final Programacion\obj\Debug\net8.0\Final Programacion.dll
+C:\Users\Coccia\Desktop\Nueva carpeta\Nueva carpeta\Final Programacion\Final Programacion\obj\Debug\net8.0\refint\Final Programacion.dll
+C:\Users\Coccia\Desktop\Nueva carpeta\Nueva carpeta\Final Programacion\Final Programacion\obj\Debug\net8.0\Final Programacion.pdb
+C:\Users\Coccia\Desktop\Nueva carpeta\Nueva carpeta\Final Programacion\Final Programacion\obj\Debug\net8.0\Final Programacion.genruntimeconfig.cache
+C:\Users\Coccia\Desktop\Nueva carpeta\Nueva carpeta\Final Programacion\Final Programacion\obj\Debug\net8.0\ref\Final Programacion.dll
